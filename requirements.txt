@@ -1,0 +1,6 @@
+flask
+ultralytics
+opencv-contrib-python
+numpy
+adafruit-circuitpython-pca9685
+adafruit-blinka
